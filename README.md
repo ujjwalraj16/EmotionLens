@@ -1,6 +1,6 @@
 # 🔍 EmotionLens
 
-EmotionLens is an end-to-end deep learning application that detects emotions from text in real time. Built with a CNN trained on the GoEmotions dataset (28 emotion classes), it features a Streamlit frontend and a Flask REST API backend.
+EmotionLens is an end-to-end deep learning application that detects emotions from text in real time. Built using CNN trained on the GoEmotions dataset (28 emotion classes).
 
 ---
 
