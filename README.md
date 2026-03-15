@@ -10,8 +10,7 @@ EmotionLens is an end-to-end deep learning application that detects emotions fro
 |---|---|
 | 🧠 **28 Emotion Classes** | Trained on Google's GoEmotions dataset — from *joy* and *love* to *remorse* and *grief* |
 | 📄 **File Upload** | Supports `.txt` and `.pdf` — text extracted automatically |
-| 📊 **Interactive Visualizations** | Confidence ring, donut chart, probability bars, emotion explanation panel |
-| 🔑 **Keyword Extraction** | Highlights the key words that drove the prediction |
+| 📊 **Interactive Visualizations** | Confidence ring, donut chart, probability bars, gauge sentiment meter |
 | 🌙 **Dark / Light Mode** | Full theme toggle with proper background switching |
 
 ---
